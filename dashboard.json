@@ -1,9 +1,9 @@
 {
     "bot": {
         "prefix": "Bot Prefix",
-        "id": "Bot Id",
-        "secret": "Bot Secret",
-        "token": "Bot Token"
+        "id": 936565412341100544"",
+        "secret": "aDj46m-Ew1CIgDTI1R1M954y5lmhpq-I",
+        "token": "OTM2NTY1NDEyMzQxMTAwNTQ0.YfPCgg.CqIo-vQ_EIGIx-Xjupgz1sKbbxU"
     },
     "dashboard": {
         "port": 3000,
